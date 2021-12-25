@@ -23,6 +23,7 @@ ALL_AGENTS_LIST = [
                     'thales'
                   ]
 SELECTED_AGENTS = [
+<<<<<<< Updated upstream
                     'dialogpt.large',
                     'gptneo.xlarge',
                     'gpt3',
@@ -31,6 +32,14 @@ SELECTED_AGENTS = [
                     'thales'
                     'dodecathlon.wizard_of_wikipedia',
                     'wizard_of_wikipedia.end2end_generator',
+=======
+                    'gpt3',
+                    'repeat'
+                    'metaintelligence'
+                    'thales'
+                    'dodecathlon.wizard_of_wikipedia',
+                    'dialogpt.large'
+>>>>>>> Stashed changes
                   ]
 DEVICE = 'cpu'  # cpu or gpu
 ENVIRONMENT = 'custom' 

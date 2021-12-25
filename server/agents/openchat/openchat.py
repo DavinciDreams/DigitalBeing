@@ -1,4 +1,4 @@
-'''from ..openchat.agents.blender import BlenderGenerationAgent
+from ..openchat.agents.blender import BlenderGenerationAgent
 from ..openchat.agents.dialogpt import DialoGPTAgent
 from ..openchat.agents.dodecathlon import DodecathlonAgent
 from ..openchat.agents.gptneo import GPTNeoAgent

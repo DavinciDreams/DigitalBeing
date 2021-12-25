@@ -1,4 +1,4 @@
-'''from rasa.core.agent import Agent
+from rasa.core.agent import Agent
 from rasa.utils.endpoints import EndpointConfig
 import asyncio
 import logging
