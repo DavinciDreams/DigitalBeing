@@ -12,3 +12,5 @@ websockets
 #rasa-sdk==2.8.2
 asyncio
 jinja2==3.0.3
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
